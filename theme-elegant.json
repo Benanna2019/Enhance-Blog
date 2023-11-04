@@ -1,0 +1,30 @@
+{
+  "typeScale": {
+    "steps": 8,
+    "baseMin": 16,
+    "baseMax": 18,
+    "viewportMin": 320,
+    "viewportMax": 1500,
+    "scaleMin": 1.2,
+    "scaleMax": 1.25
+  },
+  "spaceScale": {
+    "steps": 8,
+    "baseMin": 16,
+    "baseMax": 18,
+    "viewportMin": 320,
+    "viewportMax": 1500,
+    "scaleMin": 1.2,
+    "scaleMax": 1.25
+  },
+  "properties": {
+    "align-heading": "center",
+    "color-dark": "hsl(204deg 30% 30%)",
+    "color-light": "hsl(260deg 30% 94%)",
+    "font-body": "Avenir, 'Avenir Next LT Pro', Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;",
+    "font-heading": "Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;"
+  },
+  "queries": {
+    "lg": "48em"
+  }
+}
