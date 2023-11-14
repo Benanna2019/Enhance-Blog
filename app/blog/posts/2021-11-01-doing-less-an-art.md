@@ -14,7 +14,7 @@ type: "Blog"
 
 Photo by [Cristina Gottardi](https://unsplash.com/@cristina_gottardi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-_This one got a little long for me. If you want to skip to where I talk more on what ‘doing less’ looks like more practically, jump down to [‘Bringing This Full Circle'](https://www.benapatton.dev/writing/doing-less-an-art#bringing-this-full-circle)._
+_This one got a little long for me. If you want to skip to where I talk more on what ‘doing less’ looks like more practically, jump down to [‘Bringing This Full Circle'](https://benapatton.com/posts/2021-11-01-doing-less-an-art#bringing-this-full-circle)._
 
 Yesterday I mentioned a way in which junior developers and startups can slow down.
 

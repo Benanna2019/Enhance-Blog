@@ -12,7 +12,7 @@ type: "Blog"
 
 _This blog is purely opinion. Most of this will be subjective thoughts but my hope is that much of it is based off of objective realities._
 
-_*If you are wanting to simply read what the title of this article says it's about, scroll to where it says, (click here)[https://benapatton.dev/writing/will-ai-put-us-out-of-jobs-web-developer-specific#finally-to-the-article] It all ties together but ultimately I think you can just start there and be ok if you don't want to read life details*_
+_*If you are wanting to simply read what the title of this article says it's about, scroll to where it says 'Finally to the Article', or [click here](https://benapatton.com/posts/2021-02-04-will-ai-put-us-out-of-jobs-web-developer-specific#finally-to-the-article) It all ties together but ultimately I think you can just start there and be ok if you don't want to read life details*_
 
 First, some reflection that may seem irrelevant but it is how I think and I am writing this soooooooo....
 

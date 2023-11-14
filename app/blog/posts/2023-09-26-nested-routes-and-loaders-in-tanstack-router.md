@@ -10,7 +10,7 @@ authorImage: "https://cdn.sanity.io/images/nfspldzq/production/3ceeda54221c7c061
 type: "Blog"
 ---
 
-In the [last article](https://www.benapatton.dev/articles/getting-started-with-tanstack-router) we created our app and created some simple routes. Now we want to start seeing how we turn our app into something more usable.
+In the [last article](https://benapatton.com/posts/2023-09-21-getting-started-with-tanstack-router) we created our app and created some simple routes. Now we want to start seeing how we turn our app into something more usable.
 
 ## Nested Routes
 

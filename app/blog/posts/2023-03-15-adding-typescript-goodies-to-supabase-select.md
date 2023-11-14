@@ -21,7 +21,7 @@ The solution below currently only works with columns from one table. It does not
 - Allow for multiple tables
 - Allow for join queries in the select
 - Im working on it!
-- If you just want the code, click [here](https://benapatton.dev/articles/adding-typescript-goodies-to-supabase-select#just-the-code)
+- If you just want the code, click [here](https://benapatton.com/posts/2023-03-15-adding-typescript-goodies-to-supabase-select#just-the-code)
 
 ## Problems
 

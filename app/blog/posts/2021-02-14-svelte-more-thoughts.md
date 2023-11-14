@@ -10,7 +10,7 @@ authorImage: "https://cdn.sanity.io/images/nfspldzq/production/3ceeda54221c7c061
 type: "Blog"
 ---
 
-This is a follow up blog to a blog I wrote a couple of weeks ago where I shared some of my initial thoughts on Svelte. You can read that one [here](https://benapatton.dev/writing/initial-svelte-thoughts).
+This is a follow up blog to a blog I wrote a couple of weeks ago where I shared some of my initial thoughts on Svelte. You can read that one [here](https://benapatton.com/posts/2021-01-31-svelte-initial-thoughts).
 
 I have played around with Svelte a good bit over the past week and again, all I can say is wow. First, let me clarify some things and then I will go into detail on all of the new things I have tinkered with within Svelte.
 
