@@ -28,8 +28,7 @@ config theme-minimal.json
 
 @aws
 runtime nodejs18.x
-region us-east-1
-
 
 @begin
-appID J4028G78
+appID P3FH9LTD
+
